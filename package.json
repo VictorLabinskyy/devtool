@@ -1,0 +1,34 @@
+{
+  "name": "labinskyy-devkit",
+  "version": "1.0.1",
+  "description": "Personal tool for fast and convinient development. Pug, SugarCss, PostCss",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "Victor Labinskyy",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rename": "^1.2.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.42",
+    "@babel/preset-env": "^7.0.0-beta.42",
+    "autoprefixer": "^8.1.0",
+    "browser-sync": "^2.23.6",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-uglify": "^3.0.0",
+    "postcss-import": "^11.1.0",
+    "postcss-nested": "^3.0.0",
+    "precss": "^3.1.2",
+    "sugarss": "^1.0.1"
+  }
+}
