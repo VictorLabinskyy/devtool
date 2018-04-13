@@ -1,6 +1,6 @@
 module.exports = {
     src: {
-        css: "app/sss/**/*.sss",
+        css: "app/sugar/**/*.sss",
         views: "app/views/pages/*.pug",
         images: "app/images/**/*.*",
         js: "app/js/**/*.js",
@@ -12,7 +12,7 @@ module.exports = {
         js: "dist/js"
     },
     watch: {
-        css: "app/sss/**/*.sss",
+        css: "app/sugar/**/*.sss",
         views: "app/views/**/*.pug",
         images: "app/images/**/*.*",
         js: "app/js/**/*.js"
