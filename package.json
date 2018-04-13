@@ -3,9 +3,7 @@
   "version": "1.0.1",
   "description": "Personal tool for fast and convinient development. Pug, SugarCss, PostCss",
   "main": "index.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "author": "Victor Labinskyy",
   "license": "ISC",
   "dependencies": {

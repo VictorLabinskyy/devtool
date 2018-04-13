@@ -2,7 +2,7 @@ module.exports = {
     src: {
         css: "app/sss/**/*.sss",
         views: "app/views/pages/*.pug",
-        images: "app/img/**/*.*",
+        images: "app/images/**/*.*",
         js: "app/js/**/*.js",
     },
     dist: {
