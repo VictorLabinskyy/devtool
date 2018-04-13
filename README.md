@@ -12,8 +12,10 @@ This is my first personal tool to make development process faster and easier.
 
 ## Manual
 
-1. git clone https://github.com/VictorLabinskyy/devtool.git
-2. npm install
+1. Open terminal
+2. Type `git clone https://github.com/VictorLabinskyy/devtool.git`
+3. cd to devtool
+4. Run `npm install`
 
 ## Commands
 
