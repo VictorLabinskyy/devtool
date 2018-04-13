@@ -89,6 +89,10 @@ gulp.task('watch:js', () =>
 	gulp.watch(path.watch.js, ['js'])
 );
 
+gulp.task('watch:images', () =>
+    gulp.watch(path.watch.images, ['imagemin'])
+);
+
 gulp.task('build', ['css', 'pug', 'js', 'imagemin']);
 
-gulp.task('serve', ['build', 'watch:css', 'watch:pug', 'watch:js', 'browser-sync']);
+gulp.task('serve', ['build', 'watch:css', 'watch:pug', 'watch:js', 'watch:images', 'browser-sync']);

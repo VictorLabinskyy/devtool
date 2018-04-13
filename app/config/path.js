@@ -12,7 +12,7 @@ module.exports = {
         js: "dist/js"
     },
     watch: {
-        css: ["app/sss/**/*.sss"],
+        css: "app/sss/**/*.sss",
         views: "app/views/**/*.pug",
         images: "app/images/**/*.*",
         js: "app/js/**/*.js"
